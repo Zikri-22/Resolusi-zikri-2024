@@ -1,0 +1,6 @@
+RESOLUSI TAHUN 2024
+1. Menyelesaikan proses pembelajaran untuk menjadi seorang web development
+2. Belajar HTML
+3. Belajar CSS
+4. Belajar Javascript
+5. Belajar Git dan Github
