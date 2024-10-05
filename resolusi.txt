@@ -1,6 +1,9 @@
 RESOLUSI TAHUN 2024
 1. Menyelesaikan proses pembelajaran untuk menjadi seorang web development
-2. Belajar HTML
-3. Belajar CSS
-4. Belajar Javascript
+2. Belajar HTML (sudah selesai)
+3. Belajar CSS (sudah selesai)
+4. Belajar Javascript 
+  * Dasar pemograman
+  * Dom manipulation
+  * ES6
 5. Belajar Git dan Github
